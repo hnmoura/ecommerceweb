@@ -10,12 +10,16 @@ header {
 }
 
 .titulo {
-    font-family: "Concert One", cursive;
+    font-family: "Spicy Rice", serif;
     color: #e7256e; 
 }
 .subtitulo{
-    font-family: "Concert One", cursive;
+    font-family: "Concert One", sans-serif;
     color:#e7256e
+}
+.logo {
+    width: 180px; 
+    height: auto; 
 }
 
 body {
@@ -24,7 +28,6 @@ body {
     background-color: #ffffff; 
     color: #F5F5F5; 
 }
-
 
 a {
     color: #aa4f85; 
@@ -52,7 +55,6 @@ button:hover {
     color: #121212;
 }
 
-.logo {
-    width: 180px; 
-    height: auto; 
+h3{
+    color:#121212
 }
