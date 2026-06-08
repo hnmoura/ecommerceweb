@@ -22,6 +22,17 @@ header {
     height: auto; 
 }
 
+.promocoes {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    flex-wrap: wrap; 
+}
+
+.cd {
+    text-align: center;
+}
+
 body {
     margin: 0;
     padding-top: 100px;
