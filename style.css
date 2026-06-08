@@ -1,0 +1,58 @@
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0px;
+    background-color: white;
+    border-bottom: 1px solid #aa4f85;
+
+}
+
+.titulo {
+    font-family: "Concert One", cursive;
+    color: #e7256e; 
+}
+.subtitulo{
+    font-family: "Concert One", cursive;
+    color:#e7256e
+}
+
+body {
+    margin: 0;
+    padding-top: 100px;
+    background-color: #ffffff; 
+    color: #F5F5F5; 
+}
+
+
+a {
+    color: #aa4f85; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a92572; 
+}
+
+p{
+    color:#981264
+}
+button {
+    background-color: #981264;
+    color: #F5F5F5;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c3afd4;
+    color: #121212;
+}
+
+.logo {
+    width: 180px; 
+    height: auto; 
+}
