@@ -41,7 +41,7 @@ body {
 }
 
 a {
-    color: #aa4f85; 
+    color: #1f1f2e; 
     text-decoration: none;
 }
 
@@ -50,8 +50,14 @@ a:hover {
 }
 
 p{
-    color:#981264
-}
+    color:#000000
+
+}    
+
+li{
+    color: #000000;
+}    
+
 button {
     background-color: #981264;
     color: #F5F5F5;
@@ -67,5 +73,36 @@ button:hover {
 }
 
 h3{
-    color:#121212
+    color:#aa4f85
+}
+
+.preco{
+    color: gray;
+    text-decoration: line-through;
+    margin-bottom: 5px;
+}
+
+.preco-promocao {
+
+    color:#a92572;
+    font-weight: bold;
+    margin-top: 0;
+}
+form {
+    width: 50%;
+    max-width: 400px;
+    min-width: 250px;
+    margin: 0 auto;
+}
+
+fieldset {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+label {
+    color: #aa4f85;
 }
